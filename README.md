@@ -16,5 +16,5 @@ To use this example, you'll need to have the following prerequisites installed:
 
 ### Clone the repository
 
-Clone this repository to your local machine using the following command:
+For practicing feel free to clone this repository to your local machine and have fun :)
 
